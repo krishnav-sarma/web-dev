@@ -1,1 +1,1 @@
-Contains all stuffs related to web dev.
+Contain stuffs related to web dev.
